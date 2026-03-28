@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MeuGuiaIPTV">
+
+  <channel id="teste1.br">
+    <display-name lang="pt">Teste 1</display-name>
+    <icon src="https://i.imgur.com/BatygW5.png" />
+  </channel>
+
+  <programme start="20260328180000 -0300" stop="20260328190000 -0300" channel="teste1.br">
+    <title lang="pt">Título do Programa</title>
+    <desc lang="pt">Descrição detalhada do que vai passar.</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+
+</tv>
